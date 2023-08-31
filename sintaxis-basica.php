@@ -14,7 +14,7 @@ echo "No, no. Yo me llamo $nombre $apellido \n";
 echo "El resultado de : 4 x 5 es = " . (4 * 5);
 
 
-/*  PROCESO DE DEBUGGIN EN PHP  */
+                                             /*  PROCESO DE DEBUGGIN EN PHP  */
 
 // Un arreglo o array de datos:
 $personas = [
@@ -30,4 +30,5 @@ echo "\n";
 
 print_r( $personas );
 
-#COMENTARIOS DE OTRAS OPCIONES PUEDE SER:  # O // O /**/
+#COMENTARIOS DE OTRAS OPCIONES PUEDE SER:
+# O // O /**/
