@@ -29,4 +29,5 @@ Topics to talk about:
 • CHALLENGE: What time is it?
 
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlOHvixjhntKHZKFjJ8qi1v5ZAdvCygIMK0LVGW5-Np0mSNYItCKCdgXX2d5-WtGcqucA&usqp=CAU
+![image](https://github.com/diegoalex40/FundamentalsPHP/assets/38218365/538b92b8-21bf-467d-b118-211725d9901c)
+
